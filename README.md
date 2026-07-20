@@ -21,3 +21,5 @@ https://nikhilrampati2006.github.io/Spotify-clone/
 
 ## Author
 Nikhil Rampati
+
+**This is an Educational Project**
